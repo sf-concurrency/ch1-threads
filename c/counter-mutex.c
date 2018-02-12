@@ -1,5 +1,5 @@
 /*
-counter-bad - simple counter with a race condition.
+counter-mutex - simple counter with a mutex.
 
 by Greg Heo <greg@gregheo.com>
 */
